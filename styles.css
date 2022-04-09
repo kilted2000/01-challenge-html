@@ -1,0 +1,21 @@
+#title{
+    text-align: center;
+    background-color: #293546;
+    color: #939598;
+}
+#footer{
+    background-color: #293546;
+    color: #939598;
+}
+.articlebackground1{
+    background-color: antiquewhite;
+}
+.articlebackground2{
+    background-color: aliceblue;
+}
+.bodyimg{
+    max-width: 45%;
+  height: auto;
+  position: relative;
+  left: 650px;  
+}
